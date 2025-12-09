@@ -1,12 +1,17 @@
-# Hi, I'm Saurabh Varule 👋
 
+<h1 align="center">Hi 👋, I'm Saurabh Varule</h1>
+<h3 align="center">Work in Progress⚒️</h3>
+
+<img align="right" alt="Coding" width="400" src = "https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=saurabhvarule&label=Profile%20views&color=0e75b6&style=flat" alt="saurabhvarule" /> </p>
 ## About Me
 I'm a Cloud & Data Engineering enthusiast, passionate about building **ETL/ELT pipelines, data analytics solutions, and scalable data workflows** on Google Cloud Platform (GCP).  
 
 - 🔭 I’m currently working on **Data Engineering & Cloud projects**  
 - 🌱 I’m learning **advanced Big Data architectures and orchestration**  
 - 💻 Tech Stack: Python | SQL | Google Cloud Platform (Pub/Sub, Dataflow, Dataproc, BigQuery, Composer) | ETL/ELT | Airflow  
-- 📫 Connect with me: [LinkedIn](https://www.linkedin.com/in/saurabhvarule) | saurabh@example.com  
+- 📫 Connect with me: [LinkedIn](https://www.linkedin.com/in/saurabhvarule) | saurabhvarule.work@gmail.com  
 
 ---
 
