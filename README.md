@@ -1,23 +1,34 @@
-<h1 align="center">Hi 👋, I'm Saurabh Varule</h1>
-<h3 align="center">Work in Progress⚒️</h3>
+# Hi, I'm Saurabh Varule 👋
 
-<img align="right" alt="Coding" width="400" src = "https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+## About Me
+I'm a Cloud & Data Engineering enthusiast, passionate about building **ETL/ELT pipelines, data analytics solutions, and scalable data workflows** on Google Cloud Platform (GCP).  
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=saurabhvarule&label=Profile%20views&color=0e75b6&style=flat" alt="saurabhvarule" /> </p>
+- 🔭 I’m currently working on **Data Engineering & Cloud projects**  
+- 🌱 I’m learning **advanced Big Data architectures and orchestration**  
+- 💻 Tech Stack: Python | SQL | Google Cloud Platform (Pub/Sub, Dataflow, Dataproc, BigQuery, Composer) | ETL/ELT | Airflow  
+- 📫 Connect with me: [LinkedIn](https://www.linkedin.com/in/saurabhvarule) | saurabh@example.com  
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+---
 
-- 🌱 I’m currently learning **Web Development**
+## Skills
 
-- 👨‍💻 All of my projects are available at [https://www.github.com/saurabhvarule](https://www.github.com/saurabhvarule)
+**Languages & Tools:**  
+Python | SQL | Google Cloud Platform | BigQuery | Dataflow | Dataproc | Pub/Sub | Composer | ETL/ELT | Airflow  
 
-- 💬 Ask me about **java, c, python, dart**
+**Other Tools:** Git | Linux | Jupyter Notebook | VS Code  
 
-- 📫 How to reach me **varulesaurabh44@gmail.com**
+---
+
+## Let's Connect!
+
+- LinkedIn: [Saurabh Varule](https://www.linkedin.com/in/saurabhvarule)  
+- Email: saurabhvarule.work@gmail.com  
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/saurabh-varule-scoe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="saurabh-varule-scoe" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/saurabhvarule" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="saurabh-varule-scoe" height="30" width="40" /></a>
 <a href="https://www.instagram.com/saurabhh__.__/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="saurabhh._._" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/saurabhvarule" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="saurabhvarule" height="30" width="40" /></a>
 </p>
