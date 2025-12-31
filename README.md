@@ -11,7 +11,7 @@ Computer Engineer with 3 years of hands-on experience as a GCP Data Engineer, wo
 
 - 🔭 I’m currently working on **Data Engineering & Cloud projects**  
 - 🌱 I’m learning **advanced Big Data architectures and orchestration**  
-- 💻 Tech Stack: Python | SQL | Google Cloud Platform (Pub/Sub, Dataflow, Dataproc, BigQuery, Composer) | ETL/ELT | Airflow  
+- 💻 Tech Stack: Python | SQL | Google Cloud Platform (Pub/Sub, Dataflow, Dataproc, BigQuery, Composer) | ETL/ELT | Airflow/Composer
 - 📫 Connect with me: [LinkedIn](https://www.linkedin.com/in/saurabhvarule) | saurabhvarule.work@gmail.com  
 
 ---
