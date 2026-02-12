@@ -19,9 +19,10 @@ Computer Engineer with 3 years of hands-on experience as a GCP Data Engineer, wo
 ## Skills
 
 **Languages & Tools:**  
-Python | SQL | Google Cloud Platform | BigQuery | Dataflow | Dataproc | Pub/Sub | Composer | ETL/ELT | Airflow  
+Google Cloud Platform | Python | SQL | PySpark(Apache Spark) | Apache Airflow | BigQuery | Dataflow | Dataproc |<br> 
+Pub/Sub | Cloud Composer | ETL/ELT | Data Warehousing | Data Modeling | Data Processing 
 
-**Other Tools:** Git | Linux | Jupyter Notebook | VS Code  
+**Other Tools:** Git| Docker | Linux | Jupyter Notebook | VS Code  
 
 ---
 
